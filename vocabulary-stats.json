@@ -1,0 +1,34 @@
+{
+  "total": 5000,
+  "levels": {
+    "B1": 2451,
+    "B2": 2001,
+    "C1": 548
+  },
+  "types": {
+    "word": 155,
+    "phrase": 4845
+  },
+  "origin": {
+    "curated": 332,
+    "composed": 4668
+  },
+  "topics": {
+    "FOUNDATIONS": 177,
+    "ACTION": 155,
+    "EDUCATION": 345,
+    "CAREER": 344,
+    "TECHNOLOGY": 344,
+    "ENVIRONMENT": 344,
+    "SOCIETY": 344,
+    "COMMUNICATION": 337,
+    "LIFESTYLE": 340,
+    "TRAVEL": 317,
+    "SCIENCE": 316,
+    "HEALTH": 314,
+    "CULTURE": 320,
+    "FINANCE": 315,
+    "REAL-LIFE": 344,
+    "IELTS": 344
+  }
+}

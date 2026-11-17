@@ -1,0 +1,9 @@
+{
+  "name":"lexora-orbit",
+  "version":"1.1.0",
+  "private":true,
+  "type":"module",
+  "description":"Cinematic English learning website — desktop and mobile, 5000 vocabulary cards + optional AI integrations",
+  "scripts":{"start":"node server/server.mjs","check":"node --check app.js && node --check server/server.mjs && node --check sw.js && node tests/smoke.mjs"},
+  "engines":{"node":">=20"}
+}
